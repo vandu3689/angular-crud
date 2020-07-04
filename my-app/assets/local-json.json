@@ -1,0 +1,26 @@
+{
+  "customer-details": [
+    {
+    "id" : 1,
+    "name": "Kristie Minshall",
+    "phone": "+61415143256",
+    "rating": "2.0",
+    "availability": "UA,UA,UA,UA,UA,UA,UA,UA,UA,UA,UA,UA,UA,UA"
+    },
+    {
+    "id" : 2,
+    "name": "Sarah Symonds ",
+    "phone": "+61415143256",
+    "rating": "2.0",
+    "availability": "UA,UA,UA,UA,UA,UA,UA,UA,UA,UA,UA,UA,UA,UA"
+   
+    },
+    {
+    "id" : 3,
+    "name": "Kylie Jolly ",
+    "phone": "+61415143256",
+    "rating": "2.0",
+    "availability": "UA,UA,UA,UA,UA,UA,UA,UA,UA,UA,UA,UA,UA,UA"
+    }
+  ]
+}
